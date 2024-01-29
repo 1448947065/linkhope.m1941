@@ -1,0 +1,9 @@
+# How to run
+
+1. Open a terminal
+2. cd to the release folder
+	$ cd v382pcietest
+3. Make the binary file executable
+	$ chmod +x v382pcietest
+4. Run the executable using root permission
+	$ sudo ./v382pcietest
