@@ -18,7 +18,6 @@ public:
     //QString static on_comboBox_2_activated();
 signals:
     void sigSendData(void *buffer);
-
 private slots:
     void doCapture(void *ptr, int fpga_fd);
 

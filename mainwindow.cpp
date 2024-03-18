@@ -311,3 +311,4 @@ int MainWindow::on_comboBox_2_activated()
     qDebug() << "mainflag is" << flagStringPtr;
     return 0;
 }
+

@@ -81,6 +81,8 @@ private slots:
 
 
 
+    void on_comboBox_2_activated(const QString &arg1);
+
 private:
     Worker *worker;
     QThread *workerThread;
